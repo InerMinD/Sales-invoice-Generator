@@ -3,7 +3,7 @@
 Typically, a sales invoice will include a description of the service provided and the amount owed. Sales invoices are crucial to small-business accounting because they enable you to record transactions of your sales for bookkeeping purposes.
 
 ## Application overview :-
-- application have the following features:
+- application have the following features:.
 1- Sales Invoice Generator (SIG) App shall display a table for a preview of all the available invoices and another table for each detailed invoice whenever selected.
 2- SIG App shall display the invoices table that shows: Invoice No., Invoice Date, Customer Name, and the Total amount of the invoice in the table that shows a preview of every invoice. 
 3- SIG App shall display the detailed invoice in a table that shows: Invoice No., Invoice Date, Customer Name, Invoice Total amount, and all the Invoice Items. 
